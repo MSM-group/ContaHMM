@@ -1,2 +1,2 @@
 # ContaHMM
-HMMs and gene database to search for prokaryotic enzymes that can biotransform contaminants 
+HMM collection and a curated database for the search of prokaryotic enzymes that can biotransform contaminants 
