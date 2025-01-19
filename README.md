@@ -25,7 +25,7 @@ Biotransformation-related genes were sourced from:
 - Experimentally validated genes from collaborators:
   - *Dr. M. Zimmermann’s lab (EMBL Heidelberg)*
   - *Dr. Yaochun Yu (currently K. Fenner’s lab, UZH/Eawag)*
-- **Enzymatic defluorination collection** ([Wackett & Robinson, 2024](https://portlandpress.com/biochemj/article/481/23/1757/235292/A-prescription-for-engineering-PFAS-biodegradation)/)
+- **Enzymatic defluorination collection** ([Wackett & Robinson, 2024](https://portlandpress.com/biochemj/article/481/23/1757/235292/A-prescription-for-engineering-PFAS-biodegradation))
 
 ---
 
