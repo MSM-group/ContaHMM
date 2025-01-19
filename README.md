@@ -23,9 +23,9 @@ Biotransformation-related genes were sourced from:
 - **PlasticDB** ([Gambarini et al., 2022](https://doi.org/10.1093/database/baac036))
 - **PMDB** ([Gan & Zhang, 2019](https://doi.org/10.1093/database/baz119))
 - Experimentally validated genes from collaborators:
-  - *M. Zimmermann’s lab (EMBL)*
-  - *Dr. YaoChun Yu (K. Fenner’s lab, UZH/Eawag)*
-- **Enzymatic defluorination collection** ([Wackett & Robinson, 2024](https://doi.org/10.1042/BCJ20200792))
+  - *Dr. M. Zimmermann’s lab (EMBL Heidelberg)*
+  - *Dr. Yaochun Yu (currently K. Fenner’s lab, UZH/Eawag)*
+- **Enzymatic defluorination collection** ([Wackett & Robinson, 2024](https://portlandpress.com/biochemj/article/481/23/1757/235292/A-prescription-for-engineering-PFAS-biodegradation)/)
 
 ---
 
