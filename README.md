@@ -1,5 +1,5 @@
 # ContaHMM: A Resource for the search of Biotransformation-Related Bacterial Genes
-
+[![DOI](https://zenodo.org/badge/904668019.svg)](https://doi.org/10.5281/zenodo.14871402)
 ## General Overview
 
 We present a dataset and HMMs (Hidden Markov Models) for biotransformation-related bacterial genes, compiled from existing databases and enhanced by extensive metadata collection, manual curation, and HMM generation. This resource includes:
