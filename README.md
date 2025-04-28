@@ -5,7 +5,7 @@
 We present a dataset and HMMs (Hidden Markov Models) for biotransformation-related bacterial genes, compiled from existing databases and enhanced by extensive metadata collection, manual curation, and HMM generation. This resource includes:
 
 
-- **197 HMMs** of enzymes linked to specific contaminant biotransformations for identifying homologs.
+- **192 HMMs** of enzymes linked to specific contaminant biotransformations for identifying homologs.
 - **Sequences and metadata** used for model generation, accompanied by a detailed metadata table.
 - Comprehensive documentation of the sequential steps and methods used to create ContaHMM.
 
@@ -21,7 +21,7 @@ Biotransformation-related genes were sourced from:
 - **HADEG** ([Rojas-Vargas et al., 2023](https://doi.org/10.1016/j.compbiolchem.2023.107966))
 - **MiBPOP** ([Ngara et al., 2022](https://doi.org/10.1093/imeta/e45))
 - **PlasticDB** ([Gambarini et al., 2022](https://doi.org/10.1093/database/baac036))
-- **PMDB** ([Gan & Zhang, 2019](https://doi.org/10.1093/database/baz119))
+- **PMBD** ([Gan & Zhang, 2019](https://doi.org/10.1093/database/baz119))
 - Experimentally validated genes from collaborators:
   - *M. Zimmermann’s lab (EMBL)*
   - *Dr. YaoChun Yu (K. Fenner’s lab, UZH/Eawag)*
