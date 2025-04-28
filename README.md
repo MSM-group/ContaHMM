@@ -51,7 +51,7 @@ Sequence clustering and alignment were key preliminary steps for HMM generation:
 
 #### Clustering Results
 - **569 clusters** and **198 singletons** obtained.
-- Clusters with at least three members were used for HMM generation (197 in total).
+- Clusters with at least three members were used for HMM generation (192 in total).
 
 ### Alignment
 - Tool: **ClustalW** ([Thompson et al., 2002](https://doi.org/10.1002/0471250953.bi0203s00))
